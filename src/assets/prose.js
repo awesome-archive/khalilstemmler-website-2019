@@ -10,7 +10,7 @@ import { Link } from 'gatsby'
  */
 
 export default {
-  subscriberCount: 5000,
+  subscriberCount: 8000,
   "main": {
     "description": (
       <span>
