@@ -11,7 +11,7 @@ I'm Khalil Stemmler.
   <img style="border-radius: 2px; max-width: 30px; margin-left: 0.5rem;" src="https://avatars3.githubusercontent.com/u/17189275?s=280&v=4"/>
 </div>
 
-I'm also a Canadian software developer, writer, and (ocassional) musician living in Southern Ontario.
+I'm also a Canadian software developer, writer, and (ocassional) musician living in the Fashion District of Toronto, Ontario.
 
 ## Connects
 
