@@ -24,7 +24,7 @@ Ron Jeffries, one of the founders of XP wrote that programmers should "**always 
 
 YAGNI is meant to be combined with **continuous refactoring**, automated unit testing and continuous integration.
 
-Failure to refactor code early could require huge amounts of **technical dept** and **rework**.
+Failure to refactor code early could require huge amounts of **technical debt** and **rework**.
 
 Therefore, in order to do YAGNI well, developers first need to know how to:
 
